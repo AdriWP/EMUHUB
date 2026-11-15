@@ -1,0 +1,23 @@
+# --- Persönliche Daten: gehören NIE ins Repository ---
+emu_launcher/games_data.json
+emu_launcher/games_data.*.json
+emu_launcher/covers/
+emu_launcher/backgrounds/
+emu_launcher/emuhub_error.log
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Windows / Editor ---
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# --- Exe-Build ---
+build/
+dist/
+*.spec

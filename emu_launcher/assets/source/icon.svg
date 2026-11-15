@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="361.244mm" height="361.244mm"
+ viewBox="0 0 1024 1024"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#131a2e" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0,230.4 C0,103.154 103.154,0 230.4,0 L793.6,0 C920.846,0 1024,103.154 1024,230.4 L1024,793.6 C1024,920.846 920.846,1024 793.6,1024 L230.4,1024 C103.154,1024 0,920.846 0,793.6 L0,230.4 Z "/>
+</g>
+
+<g fill="#3b82f6" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M161.792,253.952 C161.792,226.806 183.798,204.8 210.944,204.8 L309.248,204.8 C336.394,204.8 358.4,226.806 358.4,253.952 L358.4,770.048 C358.4,797.194 336.394,819.2 309.248,819.2 L210.944,819.2 C183.798,819.2 161.792,797.194 161.792,770.048 L161.792,253.952 Z "/>
+</g>
+
+<g fill="#a855f7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M389.12,487.424 C389.12,460.278 411.126,438.272 438.272,438.272 L585.728,438.272 C612.874,438.272 634.88,460.278 634.88,487.424 L634.88,536.576 C634.88,563.722 612.874,585.728 585.728,585.728 L438.272,585.728 C411.126,585.728 389.12,563.722 389.12,536.576 L389.12,487.424 Z "/>
+</g>
+
+<g fill="#f97316" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Segoe UI" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M665.6,253.952 C665.6,226.806 687.606,204.8 714.752,204.8 L813.056,204.8 C840.202,204.8 862.208,226.806 862.208,253.952 L862.208,770.048 C862.208,797.194 840.202,819.2 813.056,819.2 L714.752,819.2 C687.606,819.2 665.6,797.194 665.6,770.048 L665.6,253.952 Z "/>
+</g>
+</g>
+</svg>
