@@ -1,6 +1,6 @@
 # EMUHUB
 
-A native Windows game launcher (Python + PySide6/Qt6) for the Switch and 3DS emulators of your choice.
+A native Windows game launcher (Python + PySide6/Qt6) for the Switch, 3DS emulators and much more of your choice.
 
 **The program starts completely empty and in English.** There are no preset emulators – you add your own emulators, games, music and colors (the language can be switched to German in Settings). **No** games, ROMs, keys, firmware or emulators are included.
 
