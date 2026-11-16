@@ -7,7 +7,7 @@ A native Windows game launcher (Python + PySide6/Qt6) for the Switch, 3DS emulat
 ## Features
 - Tile grid with covers, hover zoom, search, filters, favorites, sorting, adjustable tile size
 - Launch with a double-click, with custom launch arguments per game or per emulator
-- **Add and set up your own emulators** (name, color, program, default arguments) – Settings → Emulators
+- **Add different emulators** (name, color, program, default arguments) – Settings → Emulators
 - **Custom themes** with a color picker, background image
 - **Background music** (MP3 and more) and a **bubble hover sound effect**, each with a volume slider (applied instantly)
 - Screenshot gallery per game
